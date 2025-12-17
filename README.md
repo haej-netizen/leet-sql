@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/haej-netizen/leet-sql/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/haej-netizen/leet-sql/tree/master/0197-rising-temperature) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/haej-netizen/leet-sql/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
